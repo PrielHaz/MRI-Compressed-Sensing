@@ -1,0 +1,9 @@
+checkpoints
+__pycache__
+text
+results
+*.pt
+images
+outputs
+exp_number.txt
+tries
